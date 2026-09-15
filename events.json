@@ -551,8 +551,8 @@
     "StartTime": null,
     "Location": "Przysta\u0144 Kajakowa w Narwi",
     "Address": null,
-    "City": null,
-    "CityId": null
+    "City": "Narew",
+    "CityId": 22379
   },
   {
     "Id": "151044",
