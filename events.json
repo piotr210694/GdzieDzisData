@@ -1301,8 +1301,8 @@
     "StartTime": "10:00:00",
     "Location": "Plac Targowy w Radzi\u0142owie",
     "Address": null,
-    "City": null,
-    "CityId": null
+    "City": "Radzi\u0142\u00F3w",
+    "CityId": 29176
   },
   {
     "Id": "150982",
