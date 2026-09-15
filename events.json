@@ -1601,8 +1601,8 @@
     "StartTime": null,
     "Location": "Puszcza Knyszy\u0144ska",
     "Address": null,
-    "City": null,
-    "CityId": null
+    "City": "D\u0105br\u00F3wki",
+    "CityId": 7622
   },
   {
     "Id": "150990",
@@ -1931,8 +1931,8 @@
     "StartTime": null,
     "Location": "plac przy BOK-u",
     "Address": "ul. Legionowa 5",
-    "City": null,
-    "CityId": null
+    "City": "Bia\u0142ystok",
+    "CityId": 1237
   },
   {
     "Id": "150395",
