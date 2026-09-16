@@ -720,6 +720,21 @@
     "CityId": 1237
   },
   {
+    "Id": "151057",
+    "Title": "I Golfowy Turniej Charytatywny",
+    "Category": "Wydarzenia sportowe i rekreacyjne",
+    "EventUrl": "https://www.bialystokonline.pl/i-golfowy-turniej-charytatywny,impreza,151057,4,1.html",
+    "ImageUrl": "https://www.bialystokonline.pl/gfx/gfx_imprezy/202609/151057/151057-343x229.jpg",
+    "StartDate": "2026-09-20T00:00:00",
+    "EndDate": "2026-09-20T00:00:00",
+    "Days": 1,
+    "StartTime": null,
+    "Location": "Golf Park Bia\u0142ystok",
+    "Address": "ul. Dolna 97, 15-697 Bia\u0142ystok",
+    "City": "Bia\u0142ystok",
+    "CityId": 1237
+  },
+  {
     "Id": "151049",
     "Title": "Niebo nad Normandi\u0105 \u002B spotkanie z Sebastianem Pawlin\u0105",
     "Category": "Kino, teatr",
