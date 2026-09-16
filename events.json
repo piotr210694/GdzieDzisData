@@ -60,66 +60,6 @@
     "CityId": 1237
   },
   {
-    "Id": "150975",
-    "Title": "PubQuiz - Wielki Turniej Wiedzy o Wszystkim",
-    "Category": "Wydarzenia sportowe i rekreacyjne",
-    "EventUrl": "https://www.bialystokonline.pl/pubquiz-wielki-turniej-wiedzy-o-wszystkim,impreza,150975,4,1.html",
-    "ImageUrl": "https://www.bialystokonline.pl/gfx/gfx_imprezy/202609/150975/150975-343x229.jpg",
-    "StartDate": "2026-09-15T00:00:00",
-    "EndDate": "2026-09-15T00:00:00",
-    "Days": 1,
-    "StartTime": "18:00:00",
-    "Location": "Zmiana Klimatu",
-    "Address": "ul. Warszawska 6, 15-063 Bia\u0142ystok",
-    "City": "Bia\u0142ystok",
-    "CityId": 1237
-  },
-  {
-    "Id": "150937",
-    "Title": "Milonga \u0022Famosa\u0022",
-    "Category": "Klubowe, taneczne, granie do piwa",
-    "EventUrl": "https://www.bialystokonline.pl/milonga-famosa,impreza,150937,1,1.html",
-    "ImageUrl": "https://www.bialystokonline.pl/gfx/gfx_imprezy/202609/150937/150937-343x229.jpg",
-    "StartDate": "2026-09-15T00:00:00",
-    "EndDate": "2026-09-15T00:00:00",
-    "Days": 1,
-    "StartTime": "18:45:00",
-    "Location": "Klub ZENIT - S.M. Zach\u0119ta",
-    "Address": "ul. Mieszka I 16, 15-054 Bia\u0142ystok",
-    "City": "Bia\u0142ystok",
-    "CityId": 1237
-  },
-  {
-    "Id": "150935",
-    "Title": "Spotkanie autorskie ze Stanis\u0142awem \u0141ubie\u0144skim",
-    "Category": "Wyk\u0142ady, pokazy, imprezy okoliczno\u015Bciowe",
-    "EventUrl": "https://www.bialystokonline.pl/spotkanie-autorskie-ze-stanislawem-lubienskim,impreza,150935,11,1.html",
-    "ImageUrl": "https://www.bialystokonline.pl/gfx/gfx_imprezy/202609/150935/150935-343x229.jpg",
-    "StartDate": "2026-09-15T00:00:00",
-    "EndDate": "2026-09-15T00:00:00",
-    "Days": 1,
-    "StartTime": "18:00:00",
-    "Location": "Ksi\u0105\u017Cnica Podlaska im. \u0141ukasza G\u00F3rnickiego w Bia\u0142ymstoku",
-    "Address": "ul. M. Sk\u0142odowskiej-Curie 14 A, 15-097 Bia\u0142ystok",
-    "City": "Bia\u0142ystok",
-    "CityId": 1237
-  },
-  {
-    "Id": "150726",
-    "Title": "Rockowe Karaoke w Pub Fiction",
-    "Category": "Klubowe, taneczne, granie do piwa",
-    "EventUrl": "https://www.bialystokonline.pl/rockowe-karaoke-w-pub-fiction,impreza,150726,1,1.html",
-    "ImageUrl": "https://www.bialystokonline.pl/gfx/gfx_imprezy/202608/150726/150726-343x229.jpg",
-    "StartDate": "2026-09-15T00:00:00",
-    "EndDate": "2026-09-15T00:00:00",
-    "Days": 1,
-    "StartTime": "20:00:00",
-    "Location": "Pub Fiction \u0026 Backstage",
-    "Address": "ul. Suraska 1, 15-093 Bia\u0142ystok",
-    "City": "Bia\u0142ystok",
-    "CityId": 1237
-  },
-  {
     "Id": "150802",
     "Title": "Lenka | BTL",
     "Category": "Kino, teatr",
@@ -191,8 +131,8 @@
     "StartTime": "16:00:00",
     "Location": "Klub osiedlowy \u201EKolor\u201D",
     "Address": "ul. Pu\u0142kowa 1A",
-    "City": null,
-    "CityId": null
+    "City": "Bia\u0142ystok",
+    "CityId": 1237
   },
   {
     "Id": "150976",
@@ -536,8 +476,8 @@
     "StartTime": "16:00:00",
     "Location": "\u0141ubin Ko\u015Bcielny (przy OSP)",
     "Address": null,
-    "City": null,
-    "CityId": null
+    "City": "\u0141ubin Ko\u015Bcielny",
+    "CityId": 43121
   },
   {
     "Id": "151045",
