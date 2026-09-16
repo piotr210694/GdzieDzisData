@@ -191,8 +191,8 @@
     "StartTime": "18:00:00",
     "Location": "E\u0142ckie Centrum kultury",
     "Address": "ul. Wojska Polskiego 47, 19-300 E\u0142k",
-    "City": "E\u0142k",
-    "CityId": 8080
+    "City": null,
+    "CityId": null
   },
   {
     "Id": "151042",
@@ -371,8 +371,8 @@
     "StartTime": "18:00:00",
     "Location": "Dom Kultury w \u0141apach",
     "Address": "ul. G\u0142\u00F3wna 8, 18-100 \u0141apy",
-    "City": "\u0141apy",
-    "CityId": 42731
+    "City": null,
+    "CityId": null
   },
   {
     "Id": "150828",
@@ -746,8 +746,8 @@
     "StartTime": "13:00:00",
     "Location": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Kleosinie",
     "Address": "ul. Zambrowska 20, 16-001 Kleosin",
-    "City": "Kleosin",
-    "CityId": 44665
+    "City": null,
+    "CityId": null
   },
   {
     "Id": "150980",
@@ -1076,8 +1076,8 @@
     "StartTime": null,
     "Location": "Muzeum Rolnictwa im. ks. Krzysztofa Kluka w Ciechanowcu",
     "Address": "ul. Pa\u0142acowa 5, 18-230 Ciechanowiec",
-    "City": "Ciechanowiec",
-    "CityId": 5007
+    "City": null,
+    "CityId": null
   },
   {
     "Id": "151026",
@@ -1811,8 +1811,8 @@
     "StartTime": null,
     "Location": "Muzeum i O\u015Brodek Kultury Bia\u0142oruskiej w Hajn\u00F3wce",
     "Address": "ul. 3 Maja 42, 17-200 Hajn\u00F3wka",
-    "City": "Hajn\u00F3wka",
-    "CityId": 10953
+    "City": null,
+    "CityId": null
   },
   {
     "Id": "150917",
@@ -2006,8 +2006,8 @@
     "StartTime": "18:00:00",
     "Location": "Filharmonia Kameralna im. Witolda Lutos\u0142awskiego w \u0141om\u017Cy",
     "Address": "ul. Zawadzka 1, 18-400 \u0141om\u017Ca",
-    "City": "\u0141om\u017Ca",
-    "CityId": 42989
+    "City": null,
+    "CityId": null
   },
   {
     "Id": "150993",
@@ -2306,8 +2306,8 @@
     "StartTime": "09:00:00",
     "Location": "Politechnika Bia\u0142ostocka. Wydzia\u0142 In\u017Cynierii Zarz\u0105dzania",
     "Address": "ul. Ojca Tarasiuka 2, 16-001 Kleosin",
-    "City": "Kleosin",
-    "CityId": 44665
+    "City": null,
+    "CityId": null
   },
   {
     "Id": "150269",
@@ -3281,8 +3281,8 @@
     "StartTime": "18:00:00",
     "Location": "Centrum Kultury w \u0141om\u017Cy",
     "Address": "ul. Sadowa 12a, 18-400 \u0141om\u017Ca",
-    "City": "\u0141om\u017Ca",
-    "CityId": 42989
+    "City": null,
+    "CityId": null
   },
   {
     "Id": "151006",
