@@ -5760,6 +5760,21 @@
     "CityId": 27669
   },
   {
+    "Id": "187091",
+    "Title": "80 decybeli - spektakl",
+    "Category": "Teatr",
+    "EventUrl": "https://www.poznan.pl/mim/events/80-decybeli-spektakl,187091.html",
+    "ImageUrl": "https://www.poznan.pl/mim/events/pictures/grafika,pic1,1225,0,499956,with-dims,209,209.jpg?_sst=1789469105021",
+    "StartDate": "2026-10-09T00:00:00",
+    "EndDate": "2026-10-09T00:00:00",
+    "Days": 1,
+    "StartTime": "19:00:00",
+    "Location": "Pawilon, ul. Ewangelicka 1",
+    "Address": null,
+    "City": "Pozna\u0144",
+    "CityId": 27669
+  },
+  {
     "Id": "184818",
     "Title": "Spektakl - Deszczowa piosenka",
     "Category": "Teatr",
@@ -6511,9 +6526,9 @@
   },
   {
     "Id": "185689",
-    "Title": "Piaskowy Wilk - spektakl dla dzieci",
+    "Title": "Piaskowy Wilk - spektakl dla dzieci WYPRZEDANY",
     "Category": "Teatr",
-    "EventUrl": "https://www.poznan.pl/mim/events/piaskowy-wilk-spektakl-dla-dzieci,185689.html",
+    "EventUrl": "https://www.poznan.pl/mim/events/piaskowy-wilk-spektakl-dla-dzieci-wyprzedany,185689.html",
     "ImageUrl": "https://www.poznan.pl/mim/events/pictures/plakat-spektaklu,pic1,1225,0,496971,with-dims,209,209.jpg?_sst=1789469105021",
     "StartDate": "2026-10-12T00:00:00",
     "EndDate": "2026-10-12T00:00:00",
@@ -6556,9 +6571,9 @@
   },
   {
     "Id": "185688",
-    "Title": "Piaskowy Wilk - spektakl dla dzieci",
+    "Title": "Piaskowy Wilk - spektakl dla dzieci WYPRZEDANY",
     "Category": "Teatr",
-    "EventUrl": "https://www.poznan.pl/mim/events/piaskowy-wilk-spektakl-dla-dzieci,185688.html",
+    "EventUrl": "https://www.poznan.pl/mim/events/piaskowy-wilk-spektakl-dla-dzieci-wyprzedany,185688.html",
     "ImageUrl": "https://www.poznan.pl/mim/events/pictures/plakat-spektaklu,pic1,1225,0,496970,with-dims,209,209.jpg?_sst=1789469105021",
     "StartDate": "2026-10-12T00:00:00",
     "EndDate": "2026-10-12T00:00:00",
